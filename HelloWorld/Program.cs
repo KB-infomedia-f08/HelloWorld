@@ -19,7 +19,6 @@ string name = Console.ReadLine();
 
 Console.WriteLine("Hello " + name);
 
-
 Console.WriteLine("enter a number");
 string input = Console.ReadLine();
 double number1 = Convert.ToDouble(input);
@@ -29,7 +28,7 @@ input = Console.ReadLine();
 double number2 = Convert.ToDouble(input);
 
 Console.WriteLine(number1 + number2);
-
+Console.WriteLine("uppload to git");
 
 
 
